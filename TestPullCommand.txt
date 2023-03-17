@@ -1,0 +1,5 @@
+The file is created to add the changes from remote repository to my local machine.
+git log --oneline
+git fetch
+git log --oneline
+git pull origin main
